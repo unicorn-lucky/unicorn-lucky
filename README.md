@@ -1,7 +1,7 @@
 ## Hello!
 "Experienced Senior Software Engineer | Web App Specialist | Agile & Scrum Enthusiast | Crafting World-Class UX Design | Leading Large-Scale Projects | Expert in Frontend-Backend Collaboration | Performance Optimization Wizard | Pixel-Perfect Code Maestro | Passionate about Innovation & Digital Experiences | Ready to Make Dreams a Reality | Let's Connect for Exciting Collaboration Ventures!"
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+**I love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
