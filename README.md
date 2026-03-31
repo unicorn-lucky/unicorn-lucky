@@ -94,10 +94,10 @@ Soft Skills: Leadership, Cross-Functional Collaboration, Technical Mentoring, Cl
 
 <br />
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=starcluster18&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=starcluster18&rank_icon=github&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/>
+    <a href="https://github-readme-stats.vercel.app/api?username=unicorn-lucky&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=unicorn-lucky&rank_icon=github&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/>
 <!--         <img src="https://github-readme-stats.vercel.app/api?username=smileysunshinesky&rank_icon=percentile&count_private=true&hide_border=true&theme=prussian" alt="Sunshine's GitHub stats"/> -->
-        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starcluster18&layout=compact&theme=prussian&show_icons=true&hide_border=true&exclude_repo=Soruko"/>
+        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn-lucky&layout=compact&theme=prussian&show_icons=true&hide_border=true&exclude_repo=Soruko"/>
     </a>
 </p>
 
